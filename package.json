@@ -1,0 +1,17 @@
+{
+  "name": "my-project",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "My project description",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node-esm -T src/index.ts"
+  },
+  "author": "TXJ",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  }
+}

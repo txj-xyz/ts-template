@@ -1,0 +1,17 @@
+.project
+.settings
+.idea
+.vscode
+/config.json
+/misc.json
+out
+db
+.env
+node_modules/
+config.json
+dist/
+db.json
+config/*.json
+config/**
+*.sqlite
+logs/
